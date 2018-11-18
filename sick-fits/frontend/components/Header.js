@@ -53,8 +53,8 @@ const Header = () => (
         </Link>
       </Logo>
       <a href='Sick Fits'></a>
+      <Nav />
     </div>
-    <Nav />
     <div className='sub-bar'>
        <p>Search</p>
     </div>
